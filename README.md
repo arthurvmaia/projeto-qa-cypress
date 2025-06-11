@@ -54,4 +54,4 @@ Para garantir a entrega de um projeto de alta qualidade e focar na demonstraçã
 
 ## Autor
 
-* **[Seu Nome Completo]**
+* **[Arthur Victor Araújo De Almeida Maia-P5A-SISTEMAS PARA INTERNET]**
