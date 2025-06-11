@@ -33,7 +33,7 @@ Para garantir a entrega de um projeto de alta qualidade e focar na demonstraçã
 
 1.  **Clonar o repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone [https://github.com/arthurvmaia/projeto-qa-cypress.git]
     ```
 
 2.  **Navegar para a pasta do projeto:**
