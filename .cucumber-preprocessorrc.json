@@ -1,0 +1,7 @@
+{
+  "stepDefinitions": "cypress/e2e/steps",
+  "messages": {
+    "enabled": true
+  },
+  "language": "pt"
+}
