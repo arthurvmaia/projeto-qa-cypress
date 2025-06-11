@@ -1,0 +1,14 @@
+# Arquivos e pastas do Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+yarn-error.log
+
+# Arquivos gerados pelo Cypress durante a execução
+cypress/downloads/
+cypress/screenshots/
+cypress/videos/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+{
+  "usuarioValido": {
+    "nome": "cypress",
+    "senha": "teste123",
+    "mensagem": "Bem-vindo, cypress!"
+  }
+}
